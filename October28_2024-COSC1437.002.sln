@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "October28_2024-COSC1437.002", "October28_2024-COSC1437.002\October28_2024-COSC1437.002.vcxproj", "{57AEFD55-908E-4642-A69C-6B6A45E2BB27}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Intro to pointers", "October28_2024-COSC1437.002\October28_2024-COSC1437.002.vcxproj", "{57AEFD55-908E-4642-A69C-6B6A45E2BB27}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Demoing the NEW operator", "Demoing the NEW operator\Demoing the NEW operator.vcxproj", "{96E50D36-75C0-48BB-BAF4-2AC4C94BE667}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Demoing memory leaks", "Demoing memory leaks\Demoing memory leaks.vcxproj", "{D24B5407-4329-41C5-9934-DC9642A77DAD}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dynamic 2D array - vector - demo", "Dynamic 2D array - vector - demo\Dynamic 2D array - vector - demo.vcxproj", "{E28CBE7C-CF82-4273-82A5-3481DA931CDF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Oct30 - pointers to class objects and polymorphism", "Oct30 - pointers to class objects and polymorphis\Oct30 - pointers to class objects and polymorphis.vcxproj", "{8F7407B7-3DFB-4F0B-A431-96E4AAEEC7EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,14 @@ Global
 		{E28CBE7C-CF82-4273-82A5-3481DA931CDF}.Release|x64.Build.0 = Release|x64
 		{E28CBE7C-CF82-4273-82A5-3481DA931CDF}.Release|x86.ActiveCfg = Release|Win32
 		{E28CBE7C-CF82-4273-82A5-3481DA931CDF}.Release|x86.Build.0 = Release|Win32
+		{8F7407B7-3DFB-4F0B-A431-96E4AAEEC7EC}.Debug|x64.ActiveCfg = Debug|x64
+		{8F7407B7-3DFB-4F0B-A431-96E4AAEEC7EC}.Debug|x64.Build.0 = Debug|x64
+		{8F7407B7-3DFB-4F0B-A431-96E4AAEEC7EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{8F7407B7-3DFB-4F0B-A431-96E4AAEEC7EC}.Debug|x86.Build.0 = Debug|Win32
+		{8F7407B7-3DFB-4F0B-A431-96E4AAEEC7EC}.Release|x64.ActiveCfg = Release|x64
+		{8F7407B7-3DFB-4F0B-A431-96E4AAEEC7EC}.Release|x64.Build.0 = Release|x64
+		{8F7407B7-3DFB-4F0B-A431-96E4AAEEC7EC}.Release|x86.ActiveCfg = Release|Win32
+		{8F7407B7-3DFB-4F0B-A431-96E4AAEEC7EC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

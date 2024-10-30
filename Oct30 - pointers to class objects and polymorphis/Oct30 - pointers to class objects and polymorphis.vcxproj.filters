@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Intro to pointers.cpp">
+    <ClCompile Include="Oct30 - pointers to class objects and polymorphism.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

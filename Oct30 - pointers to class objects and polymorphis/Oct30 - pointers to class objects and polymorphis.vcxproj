@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{57aefd55-908e-4642-a69c-6b6a45e2bb27}</ProjectGuid>
-    <RootNamespace>October282024COSC1437002</RootNamespace>
+    <ProjectGuid>{8f7407b7-3dfb-4f0b-a431-96e4aaeec7ec}</ProjectGuid>
+    <RootNamespace>Oct30pointerstoclassobjectsandpolymorphis</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Intro to pointers</ProjectName>
+    <ProjectName>Oct30 - pointers to class objects and polymorphism</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,7 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Intro to pointers.cpp" />
+    <ClCompile Include="Oct30 - pointers to class objects and polymorphism.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
